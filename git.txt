@@ -1,2 +1,2 @@
 Git Tutorial
-This teaches about Git
+This Teaches about Git
